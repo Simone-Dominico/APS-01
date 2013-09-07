@@ -11,13 +11,18 @@ O apoio  dos  fans  ainda  continua  grande  e  muitos   deles  estão  produzin
 Essa  APS visa  o  desenvolvimento  do  jogo  Sokoban  em  Ruby  com  a  interface  texto  e  qualquer funcionalidades extras que você desejar.
 Os  elementos  de  um  level  são:  um  homem,  algumas caixas e também paredes, áreas abertas e  também   áreas  onde  as  caixas  devem  ser  posicionadas.  
 Para  implementação  de  interface  texto você deve considerar os seguintes representações
+
 [@] - para o homem
+
 [#] - para a parede
+
 [.] - para o lugar de armazenamento
+
 [o] - para os caixotes
 espaço em branco para  áreas abertas
 
 [*] - para a caixa posicionada no lugar de armazenamento
+
 [+] - para o homem parado em um lugar de armazenamento
 
 Esta é uma APS desenvolvida com conhecimento de iniciantes, qualquer sugestão estão aceitas.
